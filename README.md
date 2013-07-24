@@ -5,7 +5,7 @@ I can’t believe there isn’t already a project called “Moby-Dick.”
 
 ---
 
-## *Moby-Dick, or, The Whale,* 
+## *Moby-Dick, or, The Whale* 
 ##### by Herman Melville. 
 
 I’m prettifying my favorite book about a supernatural fish<sup>1</sup>, one chapter at a time.
