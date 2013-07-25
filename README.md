@@ -18,6 +18,12 @@ Based on the [Project Gutenberg](http://www.gutenberg.org/ebooks/2701) [Plain Te
 
 ---- 
 
+The text in this project is written entirely in [Markdown](http://daringfireball.net/projects/markdown/) ([Github flavor](https://help.github.com/articles/github-flavored-markdown). 
+
+I’m serving and rendering text locally using [Serve](http://get-serve.com) with Bluecloth translating the Markdown to HTML.
+
+----
+
 ### Footnotes
 
 <sup>1</sup> See Chapter 32, “Cetology.”
