@@ -1,4 +1,4 @@
-File Conversion Notes
+Text Conversion Notes
 =====================
 
 ## Wrap long paragraphs to 80col

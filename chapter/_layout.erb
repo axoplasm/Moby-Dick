@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <title>Moby Dick<%= @title %></title>
+    <link rel="stylesheet" href="/stylesheets/moby-dick.css">
+    <!--[if IE]>
+    <script src="http://html5shiv.googlecode.com/svn/trunk/html5.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <article>
+      <%= yield %>
+    </article>
+    <footer>
+    <nav>
+	  <hr>  
+	  <ul>
+      	<li><a href="/chapter">Index</a></li>
+      </ul>
+    </nav>
+    </footer>
+  </body>
+</html>
