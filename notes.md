@@ -9,12 +9,8 @@ Generally: I do this line-by-line while reading
 `gqap`
 
 ## Smarten double quotes
-### Vim:
-`:%s/"\(.*\)"/“\1“/g`
 
 ## Smarten single quotes
-### Vim:
-`:%s/'\(.*\)'/‘\1’/g`
 
 ## Smarten apostrophes
 
