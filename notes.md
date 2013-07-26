@@ -36,10 +36,11 @@ Haven’t yet encountered a need for en-dashes.
 
 ## \*emphasize\* ALL-CAPS TEXT
 
-No regex for this yet, I do it manually as I read. `EMPHASIZED TEXT` becomes `*emphasized text.*` `CITATIONS` become `_Citations_`.
+No regex for this yet, I do it manually as I read. `EMPHASIZED TEXT` (generally in dialogue) becomes `*emphasized text.*` `CITATIONS` become `_Citations_`.
 
+In some places (e.g. the epitaphs in Chapter 6), I have preserved ALL CAPS, usually bolding it, as a stylistic choice.
 
-## Blockquote poetry or other text with ragged right margins
+## Blockquote poetry or other unusual text (e.g. printed handbills or carven letters) with ragged right margins
 ### Markdown:
 `> this is a short line.    `    
 `> Followed by another short line    `    
