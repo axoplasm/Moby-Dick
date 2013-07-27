@@ -98,7 +98,7 @@ possession of the same seas with the Leviathan.
 The grounds upon which Linnaeus would fain have banished the whales from the
 waters, he states as follows: “On account of their warm bilocular heart, their
 lungs, their movable eyelids, their hollow ears, penem intrantem feminam mammis
-lactantem,” and finally, “ex lege naturae jure meritoque.” I submitted all this
+lactantem,” and finally, *“ex lege naturae jure meritoque.”* I submitted all this
 to my friends Simeon Macey and Charley Coffin, of Nantucket, both messmates of
 mine in a certain voyage, and they united in the opinion that the reasons set
 forth were altogether insufficient. Charley profanely hinted they were humbug.
