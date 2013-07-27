@@ -36,18 +36,18 @@ Articles — leaving Queequeg, then, fasting on his tomahawk pipe, and Yojo
 warming himself at his sacrificial fire of shavings, I sallied out among
 the shipping. After much prolonged sauntering and many random inquiries,
 I learnt that there were three ships up for three-years’ voyages — The
-Devil-dam, the Tit-bit, and the Pequod. *Devil-dam*, I do not know the
-origin of; *Tit-bit* is obvious; *Pequod,* you will no doubt remember, was
+*Devil-dam,* the *Tit-bit,* and the *Pequod*. __*Devil-dam*,__ I do not know the
+origin of; __*Tit-bit*__ is obvious; __*Pequod,*__ you will no doubt remember, was
 the name of a celebrated tribe of Massachusetts Indians; now extinct
 as the ancient Medes. I peered and pryed about the Devil-dam; from her,
-hopped over to the Tit-bit; and finally, going on board the Pequod,
+hopped over to the Tit-bit; and finally, going on board the *Pequod*,
 looked around her for a moment, and then decided that this was the very
 ship for us.
 
 You may have seen many a quaint craft in your day, for aught I know; —
 square-toed luggers; mountainous Japanese junks; butter-box galliots, and what
 not; but take my word for it, you never saw such a rare old craft as this same
-rare old Pequod. She was a ship of the old school, rather small if anything;
+rare old *Pequod*. She was a ship of the old school, rather small if anything;
 with an old-fashioned claw-footed look about her. Long seasoned and
 weather-stained in the typhoons and calms of all four oceans, her old hull’s
 complexion was darkened like a French grenadier’s, who has alike fought in
@@ -59,7 +59,7 @@ flag-stone in Canterbury Cathedral where Becket bled. But to all these her old
 antiquities, were added new and marvellous features, pertaining to the wild
 business that for more than half a century she had followed.  Old Captain
 Peleg, many years her chief-mate, before he commanded another vessel of his
-own, and now a retired seaman, and one of the principal owners of the Pequod, —
+own, and now a retired seaman, and one of the principal owners of the *Pequod*, —
 this old Peleg, during the term of his chief-mateship, had built upon her
 original grotesqueness, and inlaid it, all over, with a quaintness both of
 material and device, unmatched by anything except it be Thorkill-Hake’s carved
@@ -104,9 +104,9 @@ eyes, which must have arisen from his continual sailings in many hard gales,
 and always looking to windward; — for this causes the muscles about the eyes to
 become pursed together. Such eye-wrinkles are very effectual in a scowl.
 
-“Is this the Captain of the Pequod?” said I, advancing to the door of the tent.
+“Is this the Captain of the *Pequod*?” said I, advancing to the door of the tent.
 
-“Supposing it be the captain of the Pequod, what dost thou want of him?” he
+“Supposing it be the captain of the *Pequod*, what dost thou want of him?” he
 demanded.
 
 “I was thinking of shipping.”
@@ -149,7 +149,7 @@ ye.”
 “I am mistaken then. I thought I was speaking to the Captain himself.”
 
 “Thou art speaking to Captain Peleg — that’s who ye are speaking to, young man.
-It belongs to me and Captain Bildad to see the Pequod fitted out for the
+It belongs to me and Captain Bildad to see the *Pequod* fitted out for the
 voyage, and supplied with all her needs, including crew. We are part owners and
 agents. But as I was going to say, if thou wantest to know what whaling is, as
 thou tellest ye do, I can put ye in a way of finding it out before ye bind
@@ -208,7 +208,7 @@ there’s a squall coming up, I think.”
 “Well, what does thou think then of seeing the world? Do ye wish to go round
 Cape Horn to see any more of it, eh? Can’t ye see the world where you stand?”
 
-I was a little staggered, but go a-whaling I must, and I would; and the Pequod
+I was a little staggered, but go a-whaling I must, and I would; and the *Pequod*
 was as good a ship as any — I thought the best — and all this I now repeated to
 Peleg. Seeing me so determined, he expressed his willingness to ship me.
 
@@ -351,11 +351,11 @@ of a broad-shouldered make.
 But one thing, nevertheless, that made me a little distrustful about receiving
 a generous share of the profits was this: Ashore, I had heard something of both
 Captain Peleg and his unaccountable old crony Bildad; how that they being the
-principal proprietors of the Pequod, therefore the other and more
+principal proprietors of the *Pequod*, therefore the other and more
 inconsiderable and scattered owners, left nearly the whole management of the
 ship’s affairs to these two. And I did not know but what the stingy old Bildad
 might have a mighty deal to say about shipping hands, especially as I now found
-him on board the Pequod, quite at home there in the cabin, and reading his
+him on board the *Pequod*, quite at home there in the cabin, and reading his
 Bible as if at his own fireside. Now while Peleg was vainly trying to mend a
 pen with his jack-knife, old Bildad, to my no small surprise, considering that
 he was such an interested party in these proceedings; Bildad never heeded us,
@@ -448,7 +448,7 @@ any?” turning to me.
 “Well, bring him along then.”
 
 And, after signing the papers, off I went; nothing doubting but that I had done
-a good morning’s work, and that the Pequod was the identical ship that Yojo had
+a good morning’s work, and that the *Pequod* was the identical ship that Yojo had
 provided to carry Queequeg and me round the Cape.
 
 But I had not proceeded far, when I began to bethink me that the Captain with
@@ -486,7 +486,7 @@ was a crowned king!”
 lick his blood?”
 
 “Come hither to me — hither, hither,” said Peleg, with a significance in his
-eye that almost startled me. “Look ye, lad; never say that on board the Pequod.
+eye that almost startled me. “Look ye, lad; never say that on board the *Pequod*.
 Never say it anywhere. Captain Ahab did not name himself.  ’Twas a foolish,
 ignorant whim of his crazy, widowed mother, who died when he was only a
 twelvemonth old. And yet the old squaw Tistig, at Gayhead, said that the name

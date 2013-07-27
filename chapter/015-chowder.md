@@ -3,7 +3,7 @@ Chowder.
 ========
 
 
-It was quite late in the evening when the little Moss came snugly to anchor,
+It was quite late in the evening when the little *Moss* came snugly to anchor,
 and Queequeg and I went ashore; so we could attend to no business that day, at
 least none but a supper and a bed. The landlord of the Spouter-Inn had
 recommended us to his cousin Hosea Hussey of the Try Pots, whom he asserted to

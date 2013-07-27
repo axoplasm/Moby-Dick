@@ -12,7 +12,7 @@ me concerning the very person whom I now companied with.
 
 We borrowed a wheelbarrow, and embarking our things, including my own poor
 carpet-bag, and Queequeg’s canvas sack and hammock, away we went down to “the
-Moss,” the little Nantucket packet schooner moored at the wharf. As we were
+*Moss,”* the little Nantucket packet schooner moored at the wharf. As we were
 going along the people stared; not at Queequeg so much — for they were used to
 seeing cannibals like him in their streets, — but at seeing him and me upon
 such confidential terms. But we heeded them not, going along wheeling the
@@ -72,7 +72,7 @@ begins a second; and a second ended, only begins a third, and so on, for ever
 and for aye. Such is the endlessness, yea, the intolerableness of all earthly
 effort.
 
-Gaining the more open water, the bracing breeze waxed fresh; the little Moss
+Gaining the more open water, the bracing breeze waxed fresh; the little *Moss*
 tossed the quick foam from her bows, as a young colt his snortings.  How I
 snuffed that Tartar air! — how I spurned that turnpike earth! — that common
 highway all over dented with the marks of slavish heels and hoofs; and turned
@@ -80,7 +80,7 @@ me to admire the magnanimity of the sea which will permit no records.
 
 At the same foam-fountain, Queequeg seemed to drink and reel with me.  His
 dusky nostrils swelled apart; he showed his filed and pointed teeth.  On, on we
-flew; and our offing gained, the Moss did homage to the blast; ducked and dived
+flew; and our offing gained, the *Moss* did homage to the blast; ducked and dived
 her bows as a slave before the Sultan. Sideways leaning, we sideways darted;
 every ropeyarn tingling like a wire; the two tall masts buckling like Indian
 canes in land tornadoes. So full of this reeling scene were we, as we stood by
