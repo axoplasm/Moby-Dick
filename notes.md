@@ -52,7 +52,7 @@ Any remaining tick marks are likely to be apostrophes.
 
 `CITATIONS` become `_Citations_`. 
 
-`[STAGE DIRECTIONS]` e.g. Chapter 36 et al. become `_*[Stage directions]*_` These may further be set off by horizontal rules (`----`)
+`[STAGE DIRECTIONS]` e.g. Chapter 36 et al. become `_*[Stage directions]*_` These may further be set off by horizontal rules (`----`). 
 
 `ACTOR INDICTORS` e.g. Chapter 40 become `__ACTOR INDICATORS__`.
 
@@ -72,6 +72,7 @@ May also be set off with horizontal rules (`----`).
 ## Other conventions:
 
 * Spelling, paragraph breaks, and punctuation as per source file.
+* For stage directions, added square braces `[ ]` (or substituted for parentheses) where appropriate — not consistent in source text.
 * Punctuation inside quotations.
 * `Ship’s Proper Name` (usually not styled in source text) becomes `*Ship’s Proper Name*`.
 * `Fremde Wort` (foreign words, usually not styled in source text) become `*Fremde Wort*`.

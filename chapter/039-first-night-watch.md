@@ -4,7 +4,7 @@ First Night Watch.
 
 *Fore-Top.*
 
-*(__STUBB__ solus, and mending a brace.)*
+*[__STUBB__ solus, and mending a brace.]*
 
 ----
 
@@ -26,7 +26,7 @@ and so am I — fa, la! lirra, skirra! Oh — 
 We’ll drink to-night with hearts as light, To love, as gay and fleeting As
 bubbles that swim, on the beaker’s brim, And break on the lips while meeting.
 
-A brave stave that — who calls? Mr. Starbuck? Aye, aye, sir — *(Aside)* he’s my
+A brave stave that — who calls? Mr. Starbuck? Aye, aye, sir — *[Aside]* he’s my
 superior, he has his too, if I’m not mistaken. — Aye, aye, sir, just through
 with this job — coming.
 

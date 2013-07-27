@@ -3,7 +3,7 @@ Sunset.
 =======
 
 
-*The cabin; by the stern windows; __AHAB__ sitting alone, and gazing out.*
+*[The cabin; by the stern windows; __AHAB__ sitting alone, and gazing out.]*
 
 ----
 
@@ -25,8 +25,8 @@ Dry heat upon my brow? Oh! time was, when as the sunrise nobly spurred me, so
 the sunset soothed. No more. This lovely light, it lights not me; all
 loveliness is anguish to me, since I can ne’er enjoy. Gifted with the high
 perception, I lack the low, enjoying power; damned, most subtly and most
-malignantly! damned in the midst of Paradise! Good night — good night! *(waving
-his hand, he moves from the window.)*
+malignantly! damned in the midst of Paradise! Good night — good night! *[Waving
+his hand, he moves from the window.]*
 
 ’Twas not so hard a task. I thought to find one stubborn, at the least; but my
 one cogged circle fits into all their various wheels, and they revolve. Or, if
