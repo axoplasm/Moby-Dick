@@ -210,7 +210,7 @@ piety.
 
 At last we rose and dressed; and Queequeg, taking a prodigiously hearty
 breakfast of chowders of all sorts, so that the landlady should not make much
-profit by reason of his Ramadan, we sallied out to board the Pequod, sauntering
+profit by reason of his Ramadan, we sallied out to board the *Pequod,* sauntering
 along, and picking our teeth with halibut bones.
 
 

@@ -122,7 +122,7 @@ after-claps, in case he got stove and went to Davy Jones.”
 “Peleg! Peleg!” said Bildad, lifting his eyes and hands, “thou thyself, as I
 myself, hast seen many a perilous time; thou knowest, Peleg, what it is to have
 the fear of death; how, then, can’st thou prate in this ungodly guise. Thou
-beliest thine own heart, Peleg. Tell me, when this same Pequod here had her
+beliest thine own heart, Peleg. Tell me, when this same *Pequod* here had her
 three masts overboard in that typhoon on Japan, that same voyage when thou went
 mate with Captain Ahab, did’st thou not think of Death and the Judgment then?”
 
