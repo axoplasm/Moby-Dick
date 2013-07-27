@@ -300,7 +300,7 @@ Thus ends __Book I. *(Folio),*__ and now begins __Book II. *(Octavo).*__
 
 ----
 
-### *Octavoes.\* * 
+### *Octavoes.*\* 
 
 — These embrace the whales of middling magnitude, among which present may be
 numbered: — __I., the Grampus;__ __II., the Black fish;__ __III., the
