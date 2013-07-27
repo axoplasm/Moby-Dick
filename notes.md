@@ -1,43 +1,61 @@
 Text Conversion Notes
 =====================
 
-## Wrap long paragraphs to 80col
+# Scriptable edits
 
-Generally: I do this line-by-line while reading
+## Format chapter title
 
-### Vim:
-`gqap`
+### Markdown:
+
+`### Chapter [n].`   
+`The Chapter Title.`   
+`====================`   
+
+## em-dash double hyphens
+`:%s/--/ — /g`
 
 ## Smarten double quotes
+`%s/^"/“/g `
+`%s/ "/ “/g `
+`%s/"$/”/g `
+`%s/" /” /g `
+
+
+# Manual edits
+
+## Wrap long paragraphs to 80col
+
+As I read.
+
+`gqap`
 
 ## Smarten single quotes
 
+Scan text for single-quoted dialogue (i.e. nested dialogue.) For that range:
+
+`[address]s/“'/“‘/g`
+`[address]s/'”/’”/g`
+`[address]s/ '/ ‘/g`
+`[address]s/' /’ /g`
+`[address]s/^'/‘/g`
+`[address]s/'$/’/g`
+
 ## Smarten apostrophes
 
-Generally do this on a case-by-case basis.
+Any remaining tick marks are likely to be apostrophes.
 
-### Vim:
-`/'`   
-`r’`   
-`n`   
-
-## em-dash double hyphens
-
-...with one space on either side of the double hyphen.
-
-Haven’t yet encountered a need for en-dashes.
-
-### Vim:
-`:%s/--/ — /g`
+`%s/'/’/g`
 
 ## \*emphasize\* ALL-CAPS TEXT
 
-No regex for this yet, I do it manually as I read. `EMPHASIZED TEXT` (generally in dialogue) becomes `*emphasized text.*` `CITATIONS` become `_Citations_`.
+`EMPHASIZED TEXT` (generally in dialogue) becomes `*emphasized text.*` `CITATIONS` become `_Citations_`.
 
 In some places (e.g. the epitaphs in Chapter 6), I have preserved ALL CAPS, usually bolding it, as a stylistic choice.
 
-## Blockquote poetry or other unusual text (e.g. printed handbills or carven letters) with ragged right margins
+## Blockquote poetry or other unusual text (e.g. printed handbills or carven letters), usually with ragged right margins.
+
 ### Markdown:
+
 `> this is a short line.    `    
 `> Followed by another short line    `    
 
