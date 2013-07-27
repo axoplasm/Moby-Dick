@@ -48,11 +48,19 @@ Any remaining tick marks are likely to be apostrophes.
 
 ## \*emphasize\* ALL-CAPS TEXT
 
-`EMPHASIZED TEXT` (generally in dialogue) becomes `*emphasized text.*` `CITATIONS` become `_Citations_`. Ship’s Proper Name (not styled in source text) becomes `*Ship’s Proper Name*`.
+`EMPHASIZED TEXT` becomes `*emphasized text.*` 
 
-In some places (e.g. the epitaphs in Chapter 6), I have preserved ALL CAPS, usually bolding it, as a stylistic choice.
+`CITATIONS` become `_Citations_`. 
+
+`[STAGE DIRECTIONS]` e.g. Chapter 36 et al. become `_*[Stage directions]*_` These may further be set off by horizontal rules (`----`)
+
+`ACTOR INDICTORS` e.g. Chapter 40 become `__ACTOR INDICATORS__`.
+
+In a few other  places (e.g. the epitaphs in Chapter 6), I have preserved ALL CAPS, usually bolding it, as a stylistic choice.
 
 ## Blockquote poetry or other unusual text (e.g. printed handbills or carven letters), usually with ragged right margins.
+
+May also be set off with horizontal rules (`----`).
 
 ### Markdown:
 
@@ -65,6 +73,8 @@ In some places (e.g. the epitaphs in Chapter 6), I have preserved ALL CAPS, usua
 
 * Spelling, paragraph breaks, and punctuation as per source file.
 * Punctuation inside quotations.
+* `Ship’s Proper Name` (usually not styled in source text) becomes `*Ship’s Proper Name*`.
+* `Fremde Wort` (foreign words, usually not styled in source text) become `*Fremde Wort*`.
 * Markup captures quotations and punctuation.
 * No changes to `....` or `...` or `..` as ellipses. No space before or after ellipses.
 * __Bold__ text  and lists where appropriate, while reading. 

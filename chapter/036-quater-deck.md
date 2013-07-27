@@ -3,7 +3,9 @@ The Quarter-Deck.
 =================
 
 
-*(Enter Ahab: then, All)*
+*(Enter __AHAB:__ then, __ALL__)*
+
+----
 
 It was not a great while after the affair of the pipe, that one morning shortly
 after breakfast, Ahab, as was his wont, ascended the cabin-gangway to the deck.

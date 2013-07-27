@@ -2,9 +2,9 @@
 First Night Watch.
 ==================
 
-Fore-Top.
+*Fore-Top.*
 
-*(Stubb solus, and mending a brace.)*
+*(__STUBB__ solus, and mending a brace.)*
 
 ----
 

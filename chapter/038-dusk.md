@@ -3,7 +3,7 @@ Dusk.
 =====
 
 
-*By the mainmast; Starbuck leaning against it.*
+*By the mainmast; __STARBUCK__ leaning against it.*
 
 ----
 

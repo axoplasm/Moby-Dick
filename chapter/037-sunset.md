@@ -3,7 +3,7 @@ Sunset.
 =======
 
 
-*The cabin; by the stern windows; Ahab sitting alone, and gazing out.*
+*The cabin; by the stern windows; __AHAB__ sitting alone, and gazing out.*
 
 ----
 
