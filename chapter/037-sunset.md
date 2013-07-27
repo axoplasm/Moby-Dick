@@ -5,6 +5,8 @@ Sunset.
 
 *The cabin; by the stern windows; Ahab sitting alone, and gazing out.*
 
+----
+
 I leave a white and turbid wake; pale waters, paler cheeks, where’er I sail.
 The envious billows sidelong swell to whelm my track; let them; but first I
 pass.

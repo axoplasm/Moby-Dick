@@ -48,7 +48,7 @@ Any remaining tick marks are likely to be apostrophes.
 
 ## \*emphasize\* ALL-CAPS TEXT
 
-`EMPHASIZED TEXT` (generally in dialogue) becomes `*emphasized text.*` `CITATIONS` become `_Citations_`.
+`EMPHASIZED TEXT` (generally in dialogue) becomes `*emphasized text.*` `CITATIONS` become `_Citations_`. Ship’s Proper Name (not styled in source text) becomes `*Ship’s Proper Name*`.
 
 In some places (e.g. the epitaphs in Chapter 6), I have preserved ALL CAPS, usually bolding it, as a stylistic choice.
 
