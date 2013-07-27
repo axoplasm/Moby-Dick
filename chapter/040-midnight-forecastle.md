@@ -96,8 +96,8 @@ make one ballroom of it. Dance on, lads, you’re young; I was once.
 *__3d NANTUCKET SAILOR.__* Spell oh! — whew! this is worse than pulling after
 whales in a calm — give us a whiff, Tash.
 
-[They cease dancing, and gather in clusters. Meantime the sky darkens — the
-wind rises.]
+*[They cease dancing, and gather in clusters. Meantime the sky darkens — the
+wind rises.]*
 
 *__LASCAR SAILOR.__* By Brahma! boys, it’ll be douse sail soon. The sky-born,
 high-tide Ganges turned to wind! Thou showest thy black brow, Seeva!
