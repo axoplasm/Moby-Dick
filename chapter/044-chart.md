@@ -56,6 +56,8 @@ made to construct elaborate migratory charts of the sperm whale.\*
 > have been spent in each month in every district, and the two others to show
 > the number of days in which whales, sperm or right, have been seen.”
 
+----
+
 Besides, when making a passage from one feeding-ground to another, the sperm
 whales, guided by some infallible instinct — say, rather, secret intelligence
 from the Deity — mostly swim in *veins,* as they are called; continuing their
