@@ -64,6 +64,9 @@ h1 {
 blockquote {
   //color: lighten($eigengrau, 15%);
   font-style: italic;
+  i, em, cite {
+    //font-variant: small-caps;
+  }
 }
 hr {
   border: {
@@ -86,8 +89,16 @@ footer {
   nav {
   }
 }
-p {
-  margin-top: 0;
-  margin-bottom: 0;
-  text-indent: 2em;
+//p {
+  //margin-top: 0;
+  //margin-bottom: 0;
+  //text-indent: 2em;
+//}
+ul {
+  list-style-type: none;
+  li {
+    &:before {
+      content: '—\00a0';
+    }
+  }
 }
