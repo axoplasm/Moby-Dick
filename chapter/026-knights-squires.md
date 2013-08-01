@@ -1,6 +1,6 @@
 ### Chapter 26. 
-Knights and Squires.
-====================
+Knights & Squires.
+==================
 
 
 The chief mate of the *Pequod* was Starbuck, a native of Nantucket, and a

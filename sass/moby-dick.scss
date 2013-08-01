@@ -12,28 +12,36 @@ $em-base: 16px !default;
 // colors 
 
 $eigengrau: rgb(22,22,26); // more natural optical black
-$paper: rgb(249,249,244);
+$paper: rgb(242,242,238);
 
 // fonts
 
-@import 'gentium-book';
+//@import 'gentium-book';
 
 @font-face {
   font-family: 'fell';
-  src: local('IM FELL Double Pica PRO');
+  //src: local('IM FELL Double Pica PRO');
+  src: url('/fonts/im-fell/IMFePIrm29C.otf');
   font-weight: normal;
   font-style: normal;
+}
+@font-face {
+  font-family: 'fell';
+  //src: local('IM FELL Double Pica PRO');
+  src: url('/fonts/im-fell/IMFePIit29C.otf');
+  font-weight: normal;
+  font-style: italic;
 }
 
 @font-face {
   font-family: 'fell-dw';
-  src: local('IM FELL DW Pica PRO');
+  //src: local('IM FELL DW Pica PRO');
   font-weight: normal;
   font-style: normal;
 }
 
 body {
-  font-family: 'gentium-book', 'Palatino', serif;
+  font-family: 'fell', 'Palatino', serif;
   font-size: 20px;
   line-height: 1.4;
   color: $eigengrau;
@@ -42,15 +50,21 @@ body {
   max-width: 585px;
   min-width: 320px;
   margin: auto auto;
+  text-shadow: -1px -1px transparentize($eigengrau,.9);
 }
-/*
 h1, h2, h3, h4, h5, h6,
 strong, b, label {
-  font-family: 'crimson', sans-serif;
-  font-weight: bold;
-  //text-transform: uppercase;
+  font-weight: normal;
+  //font-variant: small-caps;
+  text-transform: uppercase;
 }
-*/
+h1 {
+  font-style: italic;
+}
+blockquote {
+  //color: lighten($eigengrau, 15%);
+  font-style: italic;
+}
 hr {
   border: {
     style: solid;

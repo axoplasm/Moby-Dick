@@ -1,6 +1,6 @@
 ### Chapter 27. 
-Knights and Squires.
-=====================
+Knights & Squires.
+==================
 
 
 Stubb was the second mate. He was a native of Cape Cod; and hence, according to
