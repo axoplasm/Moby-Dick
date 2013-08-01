@@ -55,3 +55,24 @@ hr {
   border-width: 0 0 1px 0;
   border-color: #cccccc;
 }
+
+/* line 75, ../sass/moby-dick.scss */
+a, a:link, a:visited {
+  text-decoration: none;
+  font-variant: small-caps;
+  font-style: italic;
+  color: inherit;
+  color: #8f8fa0;
+}
+
+/* line 82, ../sass/moby-dick.scss */
+a:hover {
+  color: #16161a;
+}
+
+/* line 89, ../sass/moby-dick.scss */
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-indent: 2em;
+}

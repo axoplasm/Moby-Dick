@@ -72,3 +72,22 @@ hr {
     color: rgb(204,204,204);
   }
 }  
+a, a:link, a:visited {
+  text-decoration: none;
+  font-variant: small-caps;
+  font-style: italic;
+  color: inherit;
+  color: lighten($eigengrau, 50%);
+}
+a:hover {
+  color: $eigengrau;
+}
+footer {
+  nav {
+  }
+}
+p {
+  margin-top: 0;
+  margin-bottom: 0;
+  text-indent: 2em;
+}
