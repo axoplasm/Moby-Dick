@@ -29,7 +29,7 @@ body {
   max-width: 585px;
   min-width: 320px;
   margin: auto auto;
-  text-shadow: -1px -1px rgba(22, 22, 26, 0.1);
+  text-shadow: -1px -1px rgba(22, 22, 26, 0.05);
 }
 
 /* line 56, ../sass/moby-dick.scss */
