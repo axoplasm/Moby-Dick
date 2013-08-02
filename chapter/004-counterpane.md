@@ -1,4 +1,4 @@
-### CHAPTER 4.  
+### Chapter 4.  
 The Counterpane.  
 ================
 
