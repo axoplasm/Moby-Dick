@@ -2,7 +2,7 @@
 The Spirit-Spout.
 =================
 
-Days, weeks passed, and under easy sail, the ivory Pequod had slowly swept
+Days, weeks passed, and under easy sail, the ivory *Pequod* had slowly swept
 across four several cruising-grounds; that off the Azores; off the Cape de
 Verdes; on the Plate (so called), being off the mouth of the Rio de la Plata;
 and the Carrol Ground, an unstaked, watery locality, southerly from St. Helena.
@@ -53,7 +53,7 @@ and somehow seeming at every distinct repetition to be advancing still further
 and further in our van, this solitary jet seemed for ever alluring us on.
 
 Nor with the immemorial superstition of their race, and in accordance with the
-preternaturalness, as it seemed, which in many things invested the Pequod, were
+preternaturalness, as it seemed, which in many things invested the *Pequod,* were
 there wanting some of the seamen who swore that whenever and wherever descried;
 at however remote times, or in however far apart latitudes and longitudes, that
 unnearable spout was cast by one self-same whale; and that whale, Moby Dick.
@@ -71,7 +71,7 @@ before our urn-like prow.
 
 But, at last, when turning to the eastward, the Cape winds began howling around
 us, and we rose and fell upon the long, troubled seas that are there; when the
-ivory-tusked Pequod sharply bowed to the blast, and gored the dark waves in her
+ivory-tusked *Pequod* sharply bowed to the blast, and gored the dark waves in her
 madness, till, like showers of silver chips, the foam-flakes flew over her
 bulwarks; then all this desolate vacuity of life went away, but gave place to
 sights more dismal than before.
