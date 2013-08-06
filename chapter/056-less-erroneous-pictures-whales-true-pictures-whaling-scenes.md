@@ -1,5 +1,5 @@
-### Chapter 56.  Of the Less Erroneous Pictures of Whales, and the True
-Pictures of Whaling Scenes.
+### Chapter 56.  
+Of the Less Erroneous Pictures of Whales, and the True Pictures of Whaling Scenes.
 =======================================================================
 
 
