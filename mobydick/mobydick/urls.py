@@ -1,11 +1,11 @@
 from django.conf.urls import patterns, include, url
 from django.views.generic.base import TemplateView, RedirectView
 from django.shortcuts import render_to_response, get_object_or_404
-from django.http import HttpResponse
-
-
+from django.http import HttpResponse # unused
+from os import listdir
 
 # subclass TemplateView to replicate direct_to_template
+# unused
 class DirectTemplateView(TemplateView):
     extra_context = None
     def get_context_data(self, **kwargs):
@@ -19,19 +19,19 @@ class DirectTemplateView(TemplateView):
         return context
 
 
-def hello(request):
-   return HttpResponse('hello world!')
-
-def chapter_zno(request, chapter):
-	chapter_file = '%s.md' % chapter
-	chapter_tpl = 'chapter.html'
-	return render_to_response(chapter_tpl, chapter_file)
-
 def get_chapter(request, chapter):
+	dir_list = listdir('chapter')
+	chapters = []
+
+	for filename in dir_list:
+		if filename[-2:] == 'md':
+			chapters.append(filename[:3])
+
 	chapter_file = '%s.md' % chapter
 	chapter_tpl = 'chapter.html'
 	context = {
 		'chapter_file': chapter_file,
+		'chapter_list': chapters,
 	} 
 	return render_to_response(chapter_tpl, context)
 
@@ -51,9 +51,6 @@ urlpatterns = patterns('',
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
 
-    url(r'^$', hello),
-    # url(r'^chapter/000', DirectTemplateView.as_view(template_name='000.md', extra_context={'title':'foobar'})),
-	url(r'^chapter/(?P<chapter>\d{3})$', get_chapter),
-	#url(r'^chapter/(?P<chapter>\d{3})$', DirectTemplateView.as_view(template_name='chapter.html', extra_context={'chapter_file': '%s.md' % chapter})),
+	url(r'^chapter/(?P<chapter>\d{3})/$', get_chapter),
 )
 
