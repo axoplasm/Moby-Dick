@@ -25,7 +25,7 @@ def get_chapter(request, chapter):
 
 	for filename in dir_list:
 		if filename[-2:] == 'md':
-			chapters.append(filename[:3])
+			chapters.append
 
 	chapter_file = '%s.md' % chapter
 	chapter_tpl = 'chapter.html'
@@ -51,6 +51,6 @@ urlpatterns = patterns('',
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
 
-	url(r'^chapter/(?P<chapter>\d{3})/$', get_chapter),
+	url(r'^chapter/(?P<chapter>.*)/$', get_chapter),
 )
 
