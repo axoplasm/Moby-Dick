@@ -1,6 +1,6 @@
 from django.conf.urls import patterns, include, url
 from django.views.generic.base import TemplateView, RedirectView
-#from django.shortcuts import render_to_response, get_object_or_404
+from django.shortcuts import render_to_response, get_object_or_404
 from django.http import HttpResponse
 
 
@@ -22,6 +22,9 @@ class DirectTemplateView(TemplateView):
 def hello(request):
    return HttpResponse('hello world!')
 
+def chapter(request, chapter):
+	return render_to_response('%s-front-matter.md' % chapter)
+
 # Uncomment the next two lines to enable the admin:
 # from django.contrib import admin
 # admin.autodiscover()
@@ -37,7 +40,8 @@ urlpatterns = patterns('',
     # Uncomment the next line to enable the admin:
     # url(r'^admin/', include(admin.site.urls)),
 
-   url(r'^$', hello),
-   url(r'^chapter/000', DirectTemplateView.as_view(template_name='000-front-matter.md', extra_context={'title':'foobar'})),
+   	url(r'^$', hello),
+   # url(r'^chapter/000', DirectTemplateView.as_view(template_name='000-front-matter.md', extra_context={'title':'foobar'})),
+	url(r'^chapter/(?P<chapter>\d{3})$', chapter),
 )
 
