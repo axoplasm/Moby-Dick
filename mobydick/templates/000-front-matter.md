@@ -1,3 +1,5 @@
+{% load markdown_tag %}
+{% markdown %}
 Moby-Dick, or, the Whale
 ========================
 
@@ -476,3 +478,4 @@ striking the whale!” — *Nantucket Song*
 > A giant in might, where might is right,   
 > And King of the boundless sea.”   
 > — *Whale Song.*
+{% endmarkdown %}
