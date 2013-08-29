@@ -67,6 +67,7 @@ tongue on each side of his mouth.”
 > part of the outer end of the lower jaw. Sometimes these tufts impart a rather
 > brigandish expression to his otherwise solemn countenance.
 
+----
 
 As every one knows, these same “hogs’ bristles,” “fins,” “whiskers,” “blinds,”
 or whatever you please, furnish to the ladies their busks and other stiffening

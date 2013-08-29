@@ -51,6 +51,7 @@ colossal bullocks, whereof one reclines while the other remains standing.\*
 > last locked fast round the smallest part of the tail, at the point of
 > junction with its broad flukes or lobes.
 
+----
 
 If moody Ahab was now all quiescence, at least so far as could be known on
 deck, Stubb, his second mate, flushed with conquest, betrayed an unusual but

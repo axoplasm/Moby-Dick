@@ -18,7 +18,7 @@ captain is provided with it. Thereby, the whale commanders are enabled to
 recognise each other upon the ocean, even at considerable distances and with no
 small facility.
 
-The **Pequod’s** signal was at last responded to by the stranger’s setting her
+The *Pequod’s* signal was at last responded to by the stranger’s setting her
 own; which proved the ship to be the *Jeroboam* of Nantucket. Squaring her
 yards, she bore down, ranged abeam under the *Pequod’s* lee, and lowered a
 boat; it soon drew nigh; but, as the side-ladder was being rigged by Starbuck’s

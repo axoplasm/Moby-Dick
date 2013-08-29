@@ -67,6 +67,7 @@ forget that, do what I would, I only had the management of one end of it.\*
 > afford the imperilled harpooneer the strongest possible guarantee for the
 > faithfulness and vigilance of his monkey-rope holder.
 
+----
 
 I have hinted that I would often jerk poor Queequeg from between the whale and
 the ship — where he would occasionally fall, from the incessant rolling and
