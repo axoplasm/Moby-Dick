@@ -38,3 +38,11 @@ Based on the [Project Gutenberg](http://www.gutenberg.org/ebooks/2701) [Plain Te
 ### Footnotes
 
 <sup>1</sup> See Chapter 32, “Cetology.”
+
+
+
+
+Editing a checklist
+  - [ ] an item
+  - [ ] another item
+  - [ ] a completed item
