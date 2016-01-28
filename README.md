@@ -14,7 +14,7 @@ I’m prettifying my favorite book about a supernatural fish<sup>1</sup>, one ch
 
 ### Computerish stuff
 
-The text in this project is written entirely in [Markdown](http://daringfireball.net/projects/markdown/) ([Github flavor](https://help.github.com/articles/github-flavored-markdown). 
+The text in this project is written entirely in [Markdown](http://daringfireball.net/projects/markdown/) ([Github flavor](https://help.github.com/articles/github-flavored-markdown)). 
 
 Plain-text source file is `2701.txt`. Chapters converted to Markdown are in the `/chapters/` directory. 
 
