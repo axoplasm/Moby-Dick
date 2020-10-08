@@ -3,7 +3,7 @@ Heads or Tails.
 ===============
 
 
-> “De balena vero sufficit, si rex habeat caput, et regina caudam.”
+> “De balena vero sufficit, si rex habeat caput, et regina caudam.”    
 > *— Bracton, L. 3, C. 3.*
 
 Latin from the books of the Laws of England, which taken along with the
