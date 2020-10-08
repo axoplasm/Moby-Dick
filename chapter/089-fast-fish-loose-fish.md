@@ -114,9 +114,9 @@ is yonder undetected villain’s marble mansion with a door-plate for a waif;
 what is that but a Fast-Fish? What is the ruinous discount which Mordecai, the
 broker, gets from poor Woebegone, the bankrupt, on a loan to keep Woebegone’s
 family from starvation; what is that ruinous discount but a Fast-Fish? What is
-the Archbishop of Savesoul’s income of L100,000 seized from the scant bread and
+the Archbishop of Savesoul’s income of £100,000 seized from the scant bread and
 cheese of hundreds of thousands of broken-backed laborers (all sure of heaven
-without any of Savesoul’s help) what is that globular L100,000 but a Fast-Fish?
+without any of Savesoul’s help) what is that globular £100,000 but a Fast-Fish?
 What are the Duke of Dunder’s hereditary towns and hamlets but Fast-Fish? What
 to that redoubted harpooneer, John Bull, is poor Ireland, but a Fast-Fish? What
 to that apostolic lancer, Brother Jonathan, is Texas but a Fast-Fish? And
